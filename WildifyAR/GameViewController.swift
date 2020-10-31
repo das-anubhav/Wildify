@@ -2,7 +2,7 @@
 //  GameViewController.swift
 //  Wildify
 //
-//  Created by ANUBHAV DAS on 21/10/20.
+//  Created by ANUBHAV DAS on 31/10/20.
 //  Copyright © 2020 Captain Anubhav. All rights reserved.
 //
 
