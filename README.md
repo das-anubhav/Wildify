@@ -7,4 +7,4 @@ Many students faces problems in understanding the different types of wildlife so
 Technologies I used:
 MLCore, ARKit, Vision framework.
 
-Video Link -> https://youtu.be/ZHCZtPtkn8w
+<!-- Video Link -> https://youtu.be/ZHCZtPtkn8w -->
