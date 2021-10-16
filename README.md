@@ -1,4 +1,5 @@
 # Wildify
+>Wildlife traditionally refers to undomesticated animal species, but has come to include all organisms that grow or live wild in an area without being introduced by humans.
 An app made for a better and an easy understanding of Wildlife
 
 The problem it solves:
